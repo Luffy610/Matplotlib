@@ -45,7 +45,7 @@ The repository is organized into the following sections:
 
 2. Navigate to the directory:
     ```bash
-    cd matplotlib-basics
+    cd Matplotlib
     ```
 
 3. Open the notebooks in Jupyter:
